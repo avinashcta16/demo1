@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+int dimm()
 {
  int i,fact=1,number;
  printf("Enter a number: ");

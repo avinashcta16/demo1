@@ -1,5 +1,5 @@
 void main()
 {
-main();
-main();
+bigg();
+dimm();
 }
